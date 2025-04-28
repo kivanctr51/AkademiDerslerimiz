@@ -1,0 +1,14 @@
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\bin\Debug\net8.0\ClassHelperExamples.exe
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\bin\Debug\net8.0\ClassHelperExamples.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\bin\Debug\net8.0\ClassHelperExamples.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\bin\Debug\net8.0\ClassHelperExamples.dll
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\bin\Debug\net8.0\ClassHelperExamples.pdb
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\obj\Debug\net8.0\ClassHelperExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\obj\Debug\net8.0\ClassHelperExamples.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\obj\Debug\net8.0\ClassHelperExamples.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\obj\Debug\net8.0\ClassHelperExamples.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\obj\Debug\net8.0\ClassHelperExamples.dll
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\obj\Debug\net8.0\refint\ClassHelperExamples.dll
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\obj\Debug\net8.0\ClassHelperExamples.pdb
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\obj\Debug\net8.0\ClassHelperExamples.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\ClassHelperExamples-master\obj\Debug\net8.0\ref\ClassHelperExamples.dll
