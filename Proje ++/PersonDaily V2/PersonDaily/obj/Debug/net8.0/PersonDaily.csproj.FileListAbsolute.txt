@@ -1,0 +1,28 @@
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\bin\Debug\net8.0\PersonDaily.exe
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\bin\Debug\net8.0\PersonDaily.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\bin\Debug\net8.0\PersonDaily.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\bin\Debug\net8.0\PersonDaily.dll
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\bin\Debug\net8.0\PersonDaily.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\obj\Debug\net8.0\PersonDaily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\obj\Debug\net8.0\PersonDaily.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\obj\Debug\net8.0\PersonDaily.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\obj\Debug\net8.0\PersonDaily.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\obj\Debug\net8.0\PersonDaily.dll
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\obj\Debug\net8.0\refint\PersonDaily.dll
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\obj\Debug\net8.0\PersonDaily.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\obj\Debug\net8.0\PersonDaily.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily\PersonDaily\obj\Debug\net8.0\ref\PersonDaily.dll
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\bin\Debug\net8.0\PersonDaily.exe
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\bin\Debug\net8.0\PersonDaily.deps.json
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\bin\Debug\net8.0\PersonDaily.runtimeconfig.json
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\bin\Debug\net8.0\PersonDaily.dll
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\bin\Debug\net8.0\PersonDaily.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\obj\Debug\net8.0\PersonDaily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\obj\Debug\net8.0\PersonDaily.AssemblyInfoInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\obj\Debug\net8.0\PersonDaily.AssemblyInfo.cs
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\obj\Debug\net8.0\PersonDaily.csproj.CoreCompileInputs.cache
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\obj\Debug\net8.0\PersonDaily.dll
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\obj\Debug\net8.0\refint\PersonDaily.dll
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\obj\Debug\net8.0\PersonDaily.pdb
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\obj\Debug\net8.0\PersonDaily.genruntimeconfig.cache
+C:\Users\fahre\OneDrive\Masaüstü\Proje ++\PersonDaily V2\PersonDaily\obj\Debug\net8.0\ref\PersonDaily.dll
